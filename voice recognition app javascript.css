@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+    
+.talk{
+
+position: absolute;
+
+top: 50%;
+
+left: 50%;
+
+transform: translate(-50%, -50%);
+
+width: 500px;
+
+padding: 40px;
+
+background: rgba(0,0,0,0.6);
+
+box-sizing: border-box;
+
+box-shadow: 0px 2px 10px rgba(2, 210, 247, 0.5);
+
+border-radius: 10px;
+
+}
